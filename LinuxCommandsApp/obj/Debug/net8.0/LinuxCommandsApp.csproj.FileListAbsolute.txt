@@ -1,0 +1,16 @@
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/bin/Debug/net8.0/LinuxCommandsApp
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/bin/Debug/net8.0/LinuxCommandsApp.deps.json
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/bin/Debug/net8.0/LinuxCommandsApp.runtimeconfig.json
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/bin/Debug/net8.0/LinuxCommandsApp.dll
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/bin/Debug/net8.0/LinuxCommandsApp.pdb
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.AssemblyInfoInputs.cache
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.AssemblyInfo.cs
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.csproj.CoreCompileInputs.cache
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.sourcelink.json
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.dll
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/refint/LinuxCommandsApp.dll
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.pdb
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/LinuxCommandsApp.genruntimeconfig.cache
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/obj/Debug/net8.0/ref/LinuxCommandsApp.dll
+/workspaces/Linux-Assignment-3-Group-14/LinuxCommandsApp/bin/Debug/net8.0/linux-commands.json

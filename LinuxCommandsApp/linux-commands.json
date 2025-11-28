@@ -1,0 +1,37 @@
+[
+  {
+    "Command": "ls",
+    "Description": "List the contents of a directory.",
+    "Category": "File & Directory"
+  },
+  {
+    "Command": "mkdir",
+    "Description": "Create one or more new directories.",
+    "Category": "File & Directory"
+  },
+  {
+    "Command": "pwd",
+    "Description": "Show the full path of the current working directory.",
+    "Category": "Navigation"
+  },
+  {
+    "Command": "clear",
+    "Description": "Clear the terminal display and scrollback buffer.",
+    "Category": "Terminal"
+  },
+  {
+    "Command": "cd",
+    "Description": "Change the current working directory.",
+    "Category": "Navigation"
+  },
+  {
+    "Command": "rm",
+    "Description": "Remove files or directories (with -r for recursive delete).",
+    "Category": "File Management"
+  },
+  {
+    "Command": "cp",
+    "Description": "Copy files or directories to another location.",
+    "Category": "File Management"
+  }
+]
