@@ -1,0 +1,13 @@
+# .NET build folders
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.user
+*.suo
+*.cache
